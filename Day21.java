@@ -7,7 +7,7 @@ public class Day21 {
         String age = "18";
         String high = "169.8";
         String bb = "56.6";
-        String jk = "yoyo";
+        String jk = "ELLE";
         String real = "true";
 
         int ageInt = Integer.parseInt(age);
