@@ -17,10 +17,10 @@ public class Day27 {
         // DECREMENT
         System.out.println("\n==== DECREMENT ====");
         int a = 3;
-        System.out.println("Nilai --E : " + (--a));
+        System.out.println("Nilai --b : " + (--a));
 
         int b = 3;
-        System.out.println("Niali L-- : " + b--);
-        System.out.println("Nilai L saat ini : " + b);  
+        System.out.println("Niali b-- : " + b--);
+        System.out.println("Nilai b saat ini : " + b);  
     }
 }
